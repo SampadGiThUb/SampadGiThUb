@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sampad Dutta.
 - 👀 I’m interested in coding and aslo Web Development,
-- 🌱 I’m currently learning Data Structures in C Programming Language,
+- 🌱 I’m currently learning Data Structures in C Programming Language,and JAVA and also in Python.
 
 <!---
 SampadGiThUb/SampadGiThUb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
